@@ -1,4 +1,5 @@
 // cat_chapter4_example.cpp : 定义控制台应用程序的入口点。
+//测试vs的git管理功能
 //
 #include "stdafx.h"
 
